@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/SwiftModalView.svg?style=flat)](https://cocoapods.org/pods/SwiftModalView)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftModalView.svg?style=flat)](https://cocoapods.org/pods/SwiftModalView)
 
-![Alt text](https://raw.githubusercontent.com/dreamsparkx/dreamsparkx/SwiftModalView/master/example-image.png)
+![Alt text](https://github.com/dreamsparkx/SwiftModalView/raw/master/example-image.png)
 
 ## Example
 
