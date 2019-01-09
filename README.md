@@ -5,11 +5,11 @@
 [![License](https://img.shields.io/cocoapods/l/SwiftModalView.svg?style=flat)](https://cocoapods.org/pods/SwiftModalView)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftModalView.svg?style=flat)](https://cocoapods.org/pods/SwiftModalView)
 
+![Alt text](https://raw.githubusercontent.com/dreamsparkx/dreamsparkx/SwiftModalView/master/example-image.png)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 
