@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftModalView_Example' do
+  pod 'SwiftModalView', :path => '../'
+
+  target 'SwiftModalView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
